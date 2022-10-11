@@ -15,6 +15,10 @@ For example, the results shown in the video linked (using data from the 2019 For
 5. **Charles Leclerc** would have won in 1031 parallel universes with the longest one being 8 races long
 ...
 
+<img src="https://i.imgur.com/zpjyLOK.png" alt="chain bear video" width="75%"/>
+
+Frame from [Chain Bear's video](https://www.youtube.com/watch?v=jfa5O8sg8g0)
+
 ## How to run it
 
 ```g++ main.cpp -o main```
